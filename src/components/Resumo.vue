@@ -12,3 +12,20 @@
         </p>
     </div>
 </template>
+<style scoped>
+.titulo-e-resumo-breve {
+    display: block;
+}
+
+.titulo-e-resumo-breve__title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+
+.titulo-e-resumo-breve__txt {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+</style>
